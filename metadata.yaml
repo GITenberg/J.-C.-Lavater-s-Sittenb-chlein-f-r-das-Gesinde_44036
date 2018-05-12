@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42534'
     url: http://www.gutenberg.org/2009/agents/42534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44036#J.-C.-Lavater-s-Sittenb-chlein-f-r-das-Gesinde
 gutenberg_issued: '2013-10-25'
 gutenberg_type: Text
 identifiers:
