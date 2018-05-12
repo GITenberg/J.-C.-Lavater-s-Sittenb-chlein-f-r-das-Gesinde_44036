@@ -1,0 +1,31 @@
+_repo: J.-C.-Lavater-s-Sittenb-chlein-f-r-das-Gesinde_44036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44036-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lavater, Johann Caspar
+    aliases:
+    - Lavater, John Caspar
+    - Lavater, Jean Gaspard
+    - Lavater, Johann Kaspar
+    - Lavater, J. C. (Johann Caspar)
+    birthdate: 1741
+    deathdate: 1801
+    gutenberg_agent_id: '42534'
+    url: http://www.gutenberg.org/2009/agents/42534
+description: ''
+gutenberg_issued: '2013-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44036'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees -- Conduct of life'
+- !lcc 'HD'
+title: J. C. Lavater's Sittenbüchlein für das Gesinde
+url: http://www.gutenberg.org/ebooks/44036
